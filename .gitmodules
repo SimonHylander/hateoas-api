@@ -1,3 +1,6 @@
 [submodule "documentation"]
 	path = documentation
 	url = https://github.com/SimonHylander/hateoas-api-documentation
+[submodule "company"]
+	path = company
+	url = https://github.com/SimonHylander/company-hateoas-api
